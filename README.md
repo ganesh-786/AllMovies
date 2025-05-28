@@ -1,12 +1,52 @@
-# React + Vite
+# 🎬 MovieHub – A React Web Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MovieHub is a responsive and interactive web application built using **React** that allows users to explore trending movies, search for their favorite films, and view detailed movie information. It integrates with a third-party movie API to fetch real-time data and present it through a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[View Live App](#) *(Add your live deployment link here)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+
+- 🔍 **Search Functionality** – Find any movie by title using real-time API queries.
+- 🧠 **Dynamic Rendering** – Movies are fetched and rendered dynamically through React components.
+- 🎨 **User-Friendly UI** – Clean, intuitive design optimized for both mobile and desktop experiences.
+- 📄 **Movie Details View** – View in-depth information including overview, ratings, release date, and poster.
+- ⚙️ **API Integration** – Seamlessly fetches data using `fetch`/`axios` from The Movie Database (TMDb) or similar APIs.
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** (with hooks)
+- **JavaScript (ES6+)**
+- **CSS3 / SCSS / Styled Components**
+- **Axios** (or Fetch API)
+- **Responsive Design** using Flexbox / Grid
+- **Movie API** (e.g., TMDb)
+
+---
+
+## 📂 Folder Structure
+Allmovies/
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── api/
+│ ├── App.js
+│ └── index.js
+├── .env
+└── README.md
+
+## 💻 Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/moviehub.git
+npm install
+npm start
+
+
