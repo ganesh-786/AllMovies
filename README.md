@@ -4,9 +4,11 @@ MovieHub is a responsive and interactive web application built using **React** t
 
 ## 🚀 Live Demo
 
-[View Live App](#) *(Add your live deployment link here)*
+[View Live Web](#) *https://allmovies.onrender.com*
 
 ---
+## Glimpse of Deployment
+![Image](https://github.com/user-attachments/assets/06d226e4-263f-4764-8a71-7b4cd4b3442e)
 
 ## 📌 Features
 
