@@ -3,8 +3,8 @@
 MovieHub is a responsive and interactive web application built using **React** that allows users to explore trending movies, search for their favorite films, and view detailed movie information. It integrates with a third-party movie API to fetch real-time data and present it through a clean and user-friendly interface.
 
 ## 🚀 Live Demo
-
-[View Live Web](#) *https://allmovies.onrender.com*
+This is the website where I have hosted this website This is the website that is fully based in the ReactJS and CSS property is made with the help bootstrap. <br/>
+Link: https://allmovies.onrender.com
 
 ---
 ## Glimpse of Deployment
